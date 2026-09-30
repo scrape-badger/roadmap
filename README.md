@@ -19,7 +19,7 @@ Customer names, emails, account details and API keys are never published here.
 
 ## Want something on here?
 
-- **Customers:** open a support ticket from your [dashboard](https://scrapebadger.com/dashboard/support)
+- **Customers:** open a support ticket from your [dashboard](https://scrapebadger.com/dashboard/support?utm_source=github-roadmap&utm_medium=referral)
   or ask BadgerBot in the portal chat. If it turns into roadmap work, we file it here and link it back.
 - **Everyone else:** open an issue. Include what you're trying to do, not just what you want changed.
 
